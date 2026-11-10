@@ -35,3 +35,10 @@ The implementation in this repository is newly authored for this portfolio and i
 
 ## License
 No license has been added yet. Add a license before redistributing this repository.
+
+## Validation and Safety Boundaries
+
+- Keep synthetic demonstration data clearly labelled and separate from real patient information.
+- Use appropriate train/test separation and report class-specific metrics and calibration where relevant.
+- Check missing values, data leakage, and changes in feature distributions.
+- This project is educational decision-support experimentation only; it is not a medical device or a substitute for professional clinical judgement.
